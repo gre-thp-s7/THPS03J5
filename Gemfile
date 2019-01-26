@@ -11,9 +11,9 @@
   
     #gem 'nokogiri'
   
-    #gem 'dotenv' 
+    gem 'dotenv' 
  
-    #gem 'google_drive'
+    gem 'google_drive'
 
     #gem 'pp'
     
